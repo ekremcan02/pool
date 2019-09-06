@@ -12,9 +12,11 @@
 
 **Section 5:** Technical Planning
 
-**Section 6:** Projects
+**Section 6:** Milestones
 
-**Section 7:** About Avocuda’s Fully Qualified Report
+**Section 7:** Projects
+
+**Section 8:** About Avocuda’s Fully Qualified Report
 - - - -
 ## About Avocuda Inc.
 
@@ -134,3 +136,61 @@
 2. Şevval Şamdancı
 3. Erge Erdoğan
 - - - -
+## Technical Planning
+
+**Available on:**
+1. Android
+2. iOS
+3. iPadOS
+4. Linux Distributions
+5. macOS
+6. Windows
+
+**Software Languages Used in Project:**
+1. **HTML@5:** Front-end / Markup for web-based application.
+2. **CSS@3:** Front-end / Markup for web-based application.
+3. **Bootstrap@4:** Front-end / Design for web-based application.
+4. **JavaScript@6:** Back-end / Programming for web-based & Windows applications.
+5. **Php@7.3.7:** Back-end / Programming for web-based application.
+6. **Swift@5.0:** Full-stack / Programming for iOS, iPadOS & macOS applications.
+7. **Java@SE 11:** Full-stack / Programming for Android application.
+- - - -
+## Milestones
+
+-1. Create Avocuda.-
+-2. Create substructure of Avocuda.-
+-3. Release departments and team of Avocuda.-
+-4. Release Avocuda web-based version.-
+-5. Create Lite applications which means web-based applications.-
+6. Collect 25.000 TRY fund.
+7. Create native Avocuda mobile applications.
+8. Create macOS and Windows Lite applications.
+9. Create native macOS and Windows applications.
+10. Release first sub project (Listen).
+11. Reach 10.000 users.
+12. Earn 1.000 TRY.
+13. Reach 100.000 users.
+14. Earn 50.000 TRY.
+15. Release second sub project (Watch).
+16. Release third sub project (Visual).
+17. Release fourth sub project (Play).
+18. Make world’s biggest social networking pool.
+- - - -
+## Projects
+
+**Main:**
+
+**Listen:**
+
+**Watch:**
+
+**Visual:**
+
+**Play:**
+- - - -
+##  About Avocuda’s Fully Qualified Report
+![](/i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+ 
+Avocuda’s Fully Qualified Report by [Avocuda’s Fully Qualified Report](https://businnes.avocuda.com/report) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Based on a work at [https://businnes.avocuda.com/report](https://businnes.avocuda.com/report).
+Permissions beyond the scope of this license may be available at [https://businnes.avocuda.com/legal](https://businnes.avocuda.com/legal).
