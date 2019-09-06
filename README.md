@@ -37,7 +37,7 @@
 
 **Short Description:** Avocuda is the world’s first social networking pool.
 
-**Description:** Lorem ipsum sit adet dolor.
+**Description:** Avocuda brings most useful features in social networks with one substructure (Avocuda Pool™). Also it develops fully qualified and secure softwares. The Pool™’s logic is 
 - - - -
 ## Departments & Avocuda’s Team
 **Founder:** Kağan Ergovan
@@ -48,11 +48,11 @@
 
 **Chief Operating Officer (COO):** Onur Alp Erdovan
 
-**Chief Technology Officer (CTO):** John Appleseed
+**Chief Technology Officer (CTO):** Emir Dalkürek
 
 **Chief Design Officer (CDO):** Sılacan Demirci
 
-**Chief Supply Officer (CSO):** John Appleseed
+**Chief Supply Officer (CSO):** Ekrem Can Gümüşler
 
 **Chief Marketing Officer (CMO):** Ekrem Can Gümüşler
 
@@ -100,7 +100,8 @@
 1. Doğukan Yazıcı
 
 **Legal:**
-1. John Appleseed
+1. Kağan Ergovan
+2. Onur Alp Erdovan
 
 **Press:**
 1. Şevval Şamdancı
@@ -162,30 +163,30 @@
 3. ✅ Release departments and team of Avocuda.
 4. ✅ Release Avocuda web-based version.
 5. ✅ Create Lite applications which means web-based applications.
-6. ❌ Collect 25.000 TRY fund.
-7. ❌ Create native Avocuda mobile applications.
-8. ❌ Create macOS and Windows Lite applications.
-9. ❌ Create native macOS and Windows applications.
-10. ❌ Release first sub project (Listen).
-11. ❌ Reach 10.000 users.
-12. ❌ Earn 1.000 TRY.
-13. ❌ Reach 100.000 users.
-14. ❌ Earn 50.000 TRY.
-15. ❌ Release second sub project (Watch).
-16. ❌ Release third sub project (Visual).
-17. ❌ Release fourth sub project (Play).
-18. ❌ Make world’s biggest social networking pool.
+6. Collect 25.000 TRY fund.
+7. Create native Avocuda mobile applications.
+8. Create macOS and Windows Lite applications.
+9. Create native macOS and Windows applications.
+10. Release first sub project (Listen).
+11. Reach 10.000 users.
+12. Earn 1.000 TRY.
+13. Reach 100.000 users.
+14. Earn 50.000 TRY.
+15. Release second sub project (Watch).
+16. Release third sub project (Visual).
+17. Release fourth sub project (Play).
+18. Make world’s biggest social networking pool.
 - - - -
 ## Projects
-**Main:**
+**Main:** This is the main application of Avocuda Pool™.
 
-**Listen:**
+**Listen:** This is the music sharing platform of Avocuda Pool™.
 
-**Watch:**
+**Watch:** This is the video sharing platform of Avocuda Pool™.
 
-**Visual:**
+**Visual:** This is the photo sharing and editing of platform Avocuda Pool™.
 
-**Play:**
+**Play:** This is the platform which makes game servers to online games and developer center of Avocuda Play of Avocuda Pool™.
 - - - -
 ##  About Avocuda’s Fully Qualified Report
 
