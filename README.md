@@ -1,71 +1,71 @@
 # Avocuda’s Fully Qualified Report
 
-- - - -
+---
 
 ## Index
 
-**Section 1:** Index
+*Section 1:* Index
 
-**Section 2:** About Avocuda Inc.
+*Section 2:* About Avocuda Inc.
 
-**Section 3:**  Production Steps
+*Section 3:*  Production Steps
 
-**Section 4:** Departments & Avocuda’s Team
+*Section 4:* Departments & Avocuda’s Team
 
-**Section 5:** Technical Planning
+*Section 5:* Technical Planning
 
-**Section 6:** Projects
+*Section 6:* Projects
 
-**Section 7:** About Avocuda’s Fully Qualified Report
+*Section 7:* About Avocuda’s Fully Qualified Report
 
-- - - -
+---
 ## 
 About Avocuda Inc.
 
-**Name:** Avocuda
+*Name:* Avocuda
 
-**Title:** Avocuda Incorporation
+*Title:* Avocuda Incorporation
 
-**Category:** Social Networking
+*Category:* Social Networking
 
-**Team:** 10 Members
+*Team:* 10 Members
 
-**Release Date:** 06/07/2019
+*Release Date:* 06/07/2019
 
-**History:** Avocuda is the new team of Iceplus Cloud & Voice of Students Foundation. We started with Ice Craft name in 2012 as a Minecraft game server. We decided to change our name after we grew up. We changed our name to Online Faction in 2013. We officially published our game server to public in 2014. In 2015 we decided to make game which doesn’t exist in whole world which named CrazyFarm with ElitIceNetwork name. In 2016 year, we got “Golden Game Server” award from Minecraftturk (which is biggest Minecraft community in Turkey) forum. Due our founder started work in Batıhost Network Services (which is biggest Minecraft game hosting in Turkey) administration team dedicated to close game server. In 07/07/2017 we created our fundamental trademark named Iceplus Cloud. Our first product is Voice of Students Foundation. Which students can able to ask queries which they wonder or share their thoughts. We published our first web-based software and mobile applications to their stores.
+*History:* Avocuda is the new team of Iceplus Cloud & Voice of Students Foundation. We started with Ice Craft name in 2012 as a Minecraft game server. We decided to change our name after we grew up. We changed our name to Online Faction in 2013. We officially published our game server to public in 2014. In 2015 we decided to make game which doesn’t exist in whole world which named CrazyFarm with ElitIceNetwork name. In 2016 year, we got “Golden Game Server” award from Minecraftturk (which is biggest Minecraft community in Turkey) forum. Due our founder started work in Batıhost Network Services (which is biggest Minecraft game hosting in Turkey) administration team dedicated to close game server. In 07/07/2017 we created our fundamental trademark named Iceplus Cloud. Our first product is Voice of Students Foundation. Which students can able to ask queries which they wonder or share their thoughts. We published our first web-based software and mobile applications to their stores.
 
-- - - -
+---
 
 ## Production Steps
-**Problem:**  Inability of the social networking platforms to present their features all in one. Also they do not respect data which belong the their users.
+*Problem:*  Inability of the social networking platforms to present their features all in one. Also they do not respect data which belong the their users.
 
-**Solution:** We provide completely secure and all-in-one platform which means you can access your favorite feature in one platform.
+*Solution:* We provide completely secure and all-in-one platform which means you can access your favorite feature in one platform.
 
-**Short Description:** Avocuda is the world’s first social networking pool.
+*Short Description:* Avocuda is the world’s first social networking pool.
 
-**Description:** Lorem ipsum sit adet dolor.
+*Description:* Lorem ipsum sit adet dolor.
 
-- - - -
+---
 
 ## Departments & Avocuda’s Team
 
-**Founder:** Kağan Ergovan
+*Founder:* Kağan Ergovan
 
-**Chairman:** Kağan Ergovan
+*Chairman:* Kağan Ergovan
 
-**Chief Executive Officer (CEO):** Doğukan Yazıcı
+*Chief Executive Officer (CEO):* Doğukan Yazıcı
 
-**Chief Operating Officer (COO):** Onur Alp Erdovan
+*Chief Operating Officer (COO):* Onur Alp Erdovan
 
-**Chief Technology Officer (CTO):** John Appleseed
+*Chief Technology Officer (CTO):* John Appleseed
 
-**Chief Design Officer (CDO):** Sılacan Demirci
+*Chief Design Officer (CDO):* Sılacan Demirci
 
-**Chief Supply Officer (CSO):** John Appleseed
+*Chief Supply Officer (CSO):* John Appleseed
 
-**Chief Marketing Officer (CMO):** Ekrem Can Gümüşler
+*Chief Marketing Officer (CMO):* Ekrem Can Gümüşler
 
-**Chief Human Resources Officer (CHRO):** Ekrem Can Gümüşler
+*Chief Human Resources Officer (CHRO):* Ekrem Can Gümüşler
 
 ### Employees:
 1. Kağan Ergovan 
@@ -79,56 +79,65 @@ About Avocuda Inc.
 9. Emir Dalkürek
 
 ### Technology:
-**Software:**
-Kağan Ergovan
-Doğukan Yazıcı
-Emir Dalkürek
-**Server Side:**
-Kağan Ergovan
-Doğukan Yazıcı
+*Software:*
+* Kağan Ergovan
+* Doğukan Yazıcı
+* Emir Dalkürek
+
+*Server Side:*
+* Kağan Ergovan
+* Doğukan Yazıcı
 
 ### Design:
-**Vector Draw:**
-Sılacan Demirci
-**Graphics:**
-Sılacan Demirci
-**3D Modeling:**
-Sılacan Demirci
-**Video Editing:**
-Sılacan Demirci
+*Vector Draw:*
+* Sılacan Demirci
+
+*Graphics:*
+* Sılacan Demirci
+
+*3D Modeling:*
+* Sılacan Demirci
+
+*Video Editing:*
+* Sılacan Demirci
 
 ### Supply:
-**Localizations:**
-Doğukan Yazıcı
-**Legal:**
-John Appleseed
-**Press:**
-Şevval Şamdancı
-Erge Erdoğan
+*Localizations:*
+* Doğukan Yazıcı
+
+*Legal:*
+* John Appleseed
+
+*Press:*
+* Şevval Şamdancı
+* Erge Erdoğan
 
 ### Marketing:
-**Places:**
-Ekrem Can Gümüşler
-Doğukan Yazıcı
-Onur Alp Erdovan
-Kağan Ergovan
-Erge Erdoğan
-Emir Dalkürek
-**People:**
-Ekrem Can Gümüşler
-Doğukan Yazıcı
-Onur Alp Erdovan
-Kağan Ergovan
-Enes Utku
-**Finance:**
-Kağan Ergovan
-Onur Alp Erdovan
+*Places:*
+* Ekrem Can Gümüşler
+* Doğukan Yazıcı
+* Onur Alp Erdovan
+* Kağan Ergovan
+* Erge Erdoğan
+* Emir Dalkürek
+
+*People:*
+* Ekrem Can Gümüşler
+* Doğukan Yazıcı
+* Onur Alp Erdovan
+* Kağan Ergovan
+* Enes Utku
+
+*Finance:*
+* Kağan Ergovan
+* Onur Alp Erdovan
 
 ### Public Relations:
-**Support:**
-Sinan Efe Tuncay
-Ekrem Can Gümüşler
-**In-Platform Moderation:**
-Ekrem Can Gümüşler
-Şevval Şamdancı
-Erge Erdoğan
+*Support:*
+* Sinan Efe Tuncay
+* Ekrem Can Gümüşler
+
+*In-Platform Moderation:*
+* Ekrem Can Gümüşler
+* Şevval Şamdancı
+* Erge Erdoğan
