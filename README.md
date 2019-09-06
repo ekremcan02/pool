@@ -189,8 +189,7 @@
 **Play:**
 - - - -
 ##  About Avocuda’s Fully Qualified Report
-![](/i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
- 
+
 Avocuda’s Fully Qualified Report by [Avocuda’s Fully Qualified Report](https://businnes.avocuda.com/report) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 Based on a work at [https://businnes.avocuda.com/report](https://businnes.avocuda.com/report).
 Permissions beyond the scope of this license may be available at [https://businnes.avocuda.com/legal](https://businnes.avocuda.com/legal).
