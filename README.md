@@ -157,29 +157,24 @@
 7. **Java@SE 11:** Full-stack / Programming for Android application.
 - - - -
 ## Milestones
--1. Create Avocuda.-
-
--2. Create substructure of Avocuda.-
-
--3. Release departments and team of Avocuda.-
-
--4. Release Avocuda web-based version.-
-
--5. Create Lite applications which means web-based applications.-
-
-6. Collect 25.000 TRY fund.
-7. Create native Avocuda mobile applications.
-8. Create macOS and Windows Lite applications.
-9. Create native macOS and Windows applications.
-10. Release first sub project (Listen).
-11. Reach 10.000 users.
-12. Earn 1.000 TRY.
-13. Reach 100.000 users.
-14. Earn 50.000 TRY.
-15. Release second sub project (Watch).
-16. Release third sub project (Visual).
-17. Release fourth sub project (Play).
-18. Make world’s biggest social networking pool.
+1. ✅ Create Avocuda.
+2. ✅ Create substructure of Avocuda.
+3. ✅ Release departments and team of Avocuda.
+4. ✅ Release Avocuda web-based version.
+5. ✅ Create Lite applications which means web-based applications.
+6. ❌ Collect 25.000 TRY fund.
+7. ❌ Create native Avocuda mobile applications.
+8. ❌ Create macOS and Windows Lite applications.
+9. ❌ Create native macOS and Windows applications.
+10. ❌ Release first sub project (Listen).
+11. ❌ Reach 10.000 users.
+12. ❌ Earn 1.000 TRY.
+13. ❌ Reach 100.000 users.
+14. ❌ Earn 50.000 TRY.
+15. ❌ Release second sub project (Watch).
+16. ❌ Release third sub project (Visual).
+17. ❌ Release fourth sub project (Play).
+18. ❌ Make world’s biggest social networking pool.
 - - - -
 ## Projects
 **Main:**
