@@ -37,7 +37,7 @@
 
 **Short Description:** Avocuda is the world’s first social networking pool.
 
-**Description:** Avocuda brings most useful features in social networks with one substructure (Avocuda Pool™). Also it develops fully qualified and secure softwares. The Pool™’s logic is 
+**Description:** Avocuda brings most useful features in social networks with one substructure (Avocuda Pool™). Also it develops fully qualified and secure softwares. The Pool™’s logic is application pool for all of social networking platforms. We are building one by one applications to every social platform. Pool™, Listen™, Watch™, Visual™ and Play™ by Avocuda.
 - - - -
 ## Departments & Avocuda’s Team
 **Founder:** Kağan Ergovan
