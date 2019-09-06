@@ -1,7 +1,6 @@
 # Avocuda’s Fully Qualified Report
 - - - -
 ## Index
-
 **Section 1:** Index
 
 **Section 2:** About Avocuda Inc.
@@ -19,7 +18,6 @@
 **Section 8:** About Avocuda’s Fully Qualified Report
 - - - -
 ## About Avocuda Inc.
-
 **Name:** Avocuda
 
 **Title:** Avocuda Incorporation
@@ -42,7 +40,6 @@
 **Description:** Lorem ipsum sit adet dolor.
 - - - -
 ## Departments & Avocuda’s Team
-
 **Founder:** Kağan Ergovan
 
 **Chairman:** Kağan Ergovan
@@ -73,6 +70,7 @@
 9. Emir Dalkürek
 
 ### Technology:
+
 **Software:**
 1. Kağan Ergovan
 2. Doğukan Yazıcı
@@ -83,6 +81,7 @@
 2. Doğukan Yazıcı
 
 ### Design:
+
 **Vector Draw:**
 1. Sılacan Demirci
 
@@ -96,6 +95,7 @@
 1. Sılacan Demirci
 
 ### Supply:
+
 **Localizations:**
 1. Doğukan Yazıcı
 
@@ -107,6 +107,7 @@
 2. Erge Erdoğan
 
 ### Marketing:
+
 **Places:**
 1. Ekrem Can Gümüşler
 2. Doğukan Yazıcı
@@ -127,6 +128,7 @@
 2. Onur Alp Erdovan
 
 ### Public Relations:
+
 **Support:**
 1. Sinan Efe Tuncay
 2. Ekrem Can Gümüşler
@@ -137,7 +139,6 @@
 3. Erge Erdoğan
 - - - -
 ## Technical Planning
-
 **Available on:**
 1. Android
 2. iOS
@@ -156,7 +157,6 @@
 7. **Java@SE 11:** Full-stack / Programming for Android application.
 - - - -
 ## Milestones
-
 -1. Create Avocuda.-
 -2. Create substructure of Avocuda.-
 -3. Release departments and team of Avocuda.-
@@ -177,7 +177,6 @@
 18. Make world’s biggest social networking pool.
 - - - -
 ## Projects
-
 **Main:**
 
 **Listen:**
