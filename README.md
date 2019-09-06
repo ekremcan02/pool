@@ -158,10 +158,15 @@
 - - - -
 ## Milestones
 -1. Create Avocuda.-
+
 -2. Create substructure of Avocuda.-
+
 -3. Release departments and team of Avocuda.-
+
 -4. Release Avocuda web-based version.-
+
 -5. Create Lite applications which means web-based applications.-
+
 6. Collect 25.000 TRY fund.
 7. Create native Avocuda mobile applications.
 8. Create macOS and Windows Lite applications.
