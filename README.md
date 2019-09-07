@@ -180,15 +180,15 @@
 18. Make world’s biggest social networking pool.
 - - - -
 ## Projects
-**Main:** This is the main application of Avocuda Pool™.
+**Main:** This is main application of Avocuda Pool™.
 
-**Listen:** This is the music sharing platform of Avocuda Pool™.
+**Listen:** This is music sharing platform of Avocuda Pool™.
 
-**Watch:** This is the video sharing platform of Avocuda Pool™.
+**Watch:** This is video sharing platform of Avocuda Pool™.
 
-**Visual:** This is the photo sharing and editing of platform Avocuda Pool™.
+**Visual:** This is photo sharing and editing of platform Avocuda Pool™.
 
-**Play:** This is the platform which makes game servers to online games and developer center of Avocuda Play of Avocuda Pool™.
+**Play:** This is platform which makes game servers to online games and developer center of Avocuda Play of Avocuda Pool™.
 - - - -
 ## Special Thanks
 **Mektebim Okulları:** They’re our first backer and office provider.
