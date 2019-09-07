@@ -5,7 +5,7 @@
 
 **Section 2:** About Avocuda Inc.
 
-**Section 3:**  Production Steps
+**Section 3:** Production Steps
 
 **Section 4:** Departments & Avocuda’s Team
 
@@ -15,7 +15,9 @@
 
 **Section 7:** Projects
 
-**Section 8:** About Avocuda’s Fully Qualified Report
+**Section 8:** Special Thanks
+
+**Section 9:** About Avocuda’s Fully Qualified Report
 - - - -
 ## About Avocuda Inc.
 **Name:** Avocuda
@@ -28,10 +30,10 @@
 
 **Release Date:** 06/07/2019
 
-**History:** Avocuda is the new team of Iceplus Cloud & Voice of Students Foundation. We started with Ice Craft name in 2012 as a Minecraft game server. We decided to change our name after we grew up. We changed our name to Online Faction in 2013. We officially published our game server to public in 2014. In 2015 we decided to make game which doesn’t exist in whole world which named CrazyFarm with ElitIceNetwork name. In 2016 year, we got “Golden Game Server” award from Minecraftturk (which is biggest Minecraft community in Turkey) forum. Due our founder started work in Batıhost Network Services (which is biggest Minecraft game hosting in Turkey) administration team dedicated to close game server. In 07/07/2017 we created our fundamental trademark named Iceplus Cloud. Our first product is Voice of Students Foundation. Which students can able to ask queries which they wonder or share their thoughts. We published our first web-based software and mobile applications to their stores.
+**History:** Avocuda is the new team of Iceplus Cloud & Voice of Students Foundation. We started with Ice Craft name in 2012 as a Minecraft game server. We decided to change our name after we grew up. We changed our name to Online Faction in 2013. We officially published our game server to public in 2014. In 2015 we decided to make game which doesn’t exist in whole world which named CrazyFarm (game type name) with ElitIceNetwork name. In 2016 year, we got “Golden Game Server” award from Minecraftturk (which is biggest Minecraft community in Turkey) forum. Due our founder started work in Batıhost Network Services (which is biggest Minecraft game hosting in Turkey) administration team dedicated to close game server. In 07/07/2017 we created our fundamental brand named Iceplus Cloud. Our first trademark was Voice of Students Foundation. Which students can able to ask queries which they wonder or share their thoughts. We published our first web-based software and mobile applications to their stores. After we closed Voice of Students because of we didn’t earn enough fund, we rebuilt our team named Avocuda and titled Avocuda Inc. We’re currently developing a logic which isn’t exists. A social networking pool (Avocuda Pool™) which brings most useful features in one substructure.
 - - - -
 ## Production Steps
-**Problem:**  Inability of the social networking platforms to present their features all in one. Also they do not respect data which belong the their users.
+**Problem:**  Inability of the social networking platforms to present their features all-in-one. Also they do not respect data which belong the their users.
 
 **Solution:** We provide completely secure and all-in-one platform which means you can access your favorite feature in one platform.
 
@@ -187,6 +189,9 @@
 **Visual:** This is the photo sharing and editing of platform Avocuda Pool™.
 
 **Play:** This is the platform which makes game servers to online games and developer center of Avocuda Play of Avocuda Pool™.
+- - - -
+## Special Thanks
+**Mektebim Okulları:** They’re our first backer and office provider.
 - - - -
 ##  About Avocuda’s Fully Qualified Report
 
